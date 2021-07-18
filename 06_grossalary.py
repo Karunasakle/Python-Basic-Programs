@@ -1,0 +1,5 @@
+BS = float(input("Enter basic salary:"))
+TA = float(input("Enter TA:"))
+DA = float(input("Enter DA:"))
+GS=(BS+TA+DA)
+print("gross salary is ",GS)
